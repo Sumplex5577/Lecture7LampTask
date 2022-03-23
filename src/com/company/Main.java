@@ -7,8 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
         Lamp lamp1 = new Lamp("White", 120, 4500);
-        Lamp lamp2 = new Lamp("Whote", 120, 4500);
-        Lamp lamp3 = new Lamp("Whyte", 120, 4500);
+        Lamp lamp2 = new Lamp("Whote", 1200, 4500);
+        Lamp lamp3 = new Lamp("Whyte", 2397, 4500);
 
 
         Set<Lamp> mySet = new HashSet();
